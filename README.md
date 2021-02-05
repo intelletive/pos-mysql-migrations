@@ -1,6 +1,6 @@
-# mysql-pos-migrations
+# pos-mysql-migrations
 
-This is a code-less Framework for doing POS (Plain-Old-SQL) MySQL database schema deployments. 
+This is a code-less Framework for doing POS (Plain-Old-SQL) MySQL database schema deployments using a series of migration scripts that are run in the same order every time and with protections to prevent them from being run more than once. 
 
 ## Getting Started
 
